@@ -1,4 +1,4 @@
-# This Repository is about My 'JavaScript Algorithms and Data Structures' Certification Projects
+# JavaScript Algorithms and Data Structures Certification Projects
 
 This repository showcases my projects for the 'JavaScript Algorithms and Data Structures' certification. You can view my certification [here.](https://www.freecodecamp.org/certification/AbrahamBilici/javascript-algorithms-and-data-structures)
 
